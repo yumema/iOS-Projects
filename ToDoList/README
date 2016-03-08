@@ -1,3 +1,5 @@
 This project follows the tutorial at:
 
 https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/index.html#//apple_ref/doc/uid/TP40011343-CH2-SW1
+
+The link has been updated with a Swift tutorial. Fortunately, I was able to find a PDF copy of the old objective-C tutorial from mrshyi's github (https://github.com/mrshyi/RoadMapiOS)
